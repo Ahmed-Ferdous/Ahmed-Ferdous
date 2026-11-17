@@ -12,8 +12,8 @@
 ---
 
 🌐 **Portfolio:** [Md. Ferdous Ahmed Rishad — rishadahmed.me](https://rishadahmed.me/)  
-💼 **LinkedIn:** [Md. Ferdous Ahmed Rishad](https://www.linkedin.com/in/ferdousrishad/)  
-🐦 **X (Twitter):** [@ferdous_rishad](https://x.com/ferdous_rishad)  
+💼 **LinkedIn:** [Md. Ferdous Ahmed Rishad](https://www.linkedin.com/in/rishadahmeda/)  
+🐦 **X (Twitter):** [@ferdous_reshad](https://x.com/ferdous_reshad)  
 🎓 **Education:** B.Sc. in Computer Science & Engineering — Daffodil International University (DIU)  
 📍 **Location:** Bangladesh  
 📧 **Contact:** Ferdousahmedreshad@gmail.com
